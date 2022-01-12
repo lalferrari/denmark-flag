@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.mainbox{
+	height: 500px;
+	width: 800px;
+	background: #FF0000;
+	position: relative;
+
+	
+	margin: auto;
+	margin-top: 10%;
+}
+
+.box2{
+	height: 100%;
+	width: 10%;
+	background: white;
+	position: absolute;
+	left: 30%;
+	transform: translatex(-50%);
+	
+	
+	}
+.box1{
+	height: 10%;
+	width: 100%;
+	background: white;
+	
+	position: absolute;
+	top: 50%;
+	transform: translatey(-50%);
+	
+}
+
+	
+
+
+	
